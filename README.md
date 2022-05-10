@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é @gustavo0207
-- 👋 Meu email de contato é ranpanig@gmail.com.br
+- 👋 Olá, meu nome é **@gustavo0207**
+- 👋 Meu email de contato é [email](ranpanig@gmail.com.br)
 - 👀 Eu estou interessado em aprender novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem do JavaScript e Scratch
 
